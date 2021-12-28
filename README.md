@@ -1,3 +1,5 @@
-# My game
+# Doodle jump with javascript
 
-This is my first game ever made with Javascipt
+This is my first game ever made with Javascript.
+
+
